@@ -1,4 +1,4 @@
-# DiscordBotProject
+# Discord Bot Project
 
 This bot was written and developed in Python using the Discord.py library. Its functionalities include a calculator, games, weather information retrieval, and more.  
 
