@@ -1,8 +1,8 @@
-# ScaltronMC Discord Bot
+# Scaltron Discord Bot
 
 ## Introduction
 
-ScaltronMC is a versatile Discord bot created using Python and the Discord API. It offers a variety of features including a calculator, Tic Tac Toe game, weather information, jokes, and more.
+Scaltron is a versatile Discord bot created using Python and the Discord API. It offers a variety of features including a calculator, Tic Tac Toe game, weather information, jokes, and more.
 
 ## Features
 
@@ -61,10 +61,6 @@ ScaltronMC is a versatile Discord bot created using Python and the Discord API. 
 3. Set up a Discord bot and obtain the token.
 4. Create a `.env` file and add your Discord bot token.
 5. Run the bot with the following command: python bot.py
-
-```env
-DISCORD_TOKEN=your_discord_bot_token
-```
 
 ## Author 
 
