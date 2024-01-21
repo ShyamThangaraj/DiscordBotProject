@@ -1,5 +1,17 @@
 # Scaltron Discord Bot
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Features](#features)
+   1. [Calculator](#calculator)
+   2. [Games](#games)
+   3. [Utilities](#utilities)
+   4. [Entertainment](#entertainment)
+   5. [Miscellaneous](#miscellaneous)
+3. [Getting Started](#getting-started)
+4. [Author](#author)
+
+
 ## Introduction
 
 Scaltron is a versatile Discord bot created using Python and the Discord API. It offers a variety of features including a calculator, Tic Tac Toe game, weather information, jokes, and more.
